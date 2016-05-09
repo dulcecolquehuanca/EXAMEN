@@ -1,0 +1,40 @@
+
+.imagen{
+	margin: 20px;
+
+}
+.texto{
+	font-size: 40px;
+	font-family:arial;
+}
+
+
+.head{ /* Tipo de Letra para el head*/
+	background-color: #382E33; 
+	 height: 50px;
+}
+.text-decoration-none{
+	text-decoration: none;
+}
+
+.lista-sin-estilo{/*--->Para todas las listas sin estilo*/
+	list-style-type: none;
+	
+}
+.lista-sin-estilo li{
+    display: inline-block;    
+}
+.lista-sin-estilo li a{
+	border-right:1px ;
+	padding: 0 30px;
+}
+.boton{
+	text-align: center;
+}
+.letra{
+	font-size: 20px;
+}
+
+
+
+
